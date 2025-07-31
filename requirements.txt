@@ -1,0 +1,6 @@
+Flask==3.1.1
+Flask_Cors==5.0.0
+Pillow==8.2.0
+Pillow==11.3.0
+PyMySQL==1.1.1
+Requests==2.32.4
